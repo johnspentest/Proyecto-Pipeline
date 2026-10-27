@@ -53,5 +53,7 @@ print("===================================")
 print("Programa ejecutado correctamente")
 
 print("Modificado el 27-10-2026")
+Print("son las 18:36")
+iROM jenkins/jenkins:lts
 
 print("===================================")
